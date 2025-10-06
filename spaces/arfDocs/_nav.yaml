@@ -1,0 +1,12 @@
+title: ARF Docs
+items:
+  - title: Welcome
+    slug: index
+  - title: Policies
+    items:
+      - slug: policies/pto
+      - slug: policies/holidays
+  - title: Requests
+    items:
+      - slug: guides/request-types
+      - slug: guides/approvals
