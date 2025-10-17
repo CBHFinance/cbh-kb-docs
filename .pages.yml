@@ -1,0 +1,9 @@
+media:
+  input: media
+  output: /media
+content: 
+  - name: docs
+    label: Documentation
+    type: collection
+    path: src/docs
+    filename: "{primary}.md"
